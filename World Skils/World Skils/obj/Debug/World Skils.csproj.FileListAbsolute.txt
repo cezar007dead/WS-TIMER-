@@ -1,0 +1,11 @@
+G:\project vs\World Skils\World Skils\bin\Debug\World Skils.exe.config
+G:\project vs\World Skils\World Skils\bin\Debug\World Skils.exe
+G:\project vs\World Skils\World Skils\bin\Debug\World Skils.pdb
+G:\project vs\World Skils\World Skils\obj\Debug\World Skils.csprojResolveAssemblyReference.cache
+G:\project vs\World Skils\World Skils\obj\Debug\World_Skils.Form1.resources
+G:\project vs\World Skils\World Skils\obj\Debug\World_Skils.Properties.Resources.resources
+G:\project vs\World Skils\World Skils\obj\Debug\World Skils.csproj.GenerateResource.Cache
+G:\project vs\World Skils\World Skils\obj\Debug\World Skils.exe
+G:\project vs\World Skils\World Skils\obj\Debug\World Skils.pdb
+G:\project vs\World Skils\World Skils\obj\Debug\World_Skils.Form3.resources
+G:\project vs\World Skils\World Skils\obj\Debug\World_Skils.Form2.resources
